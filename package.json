@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://44.204.200.140:9980/yenumulatechnologies/repository/remote-repo-mss/"
+    "registry": "http://10.42.3.241:9980/yenumulatechnologies/repository/remote-repo-mss/"
   },
   
   "scripts": {
